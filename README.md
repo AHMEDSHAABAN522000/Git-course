@@ -1,4 +1,4 @@
 # Git-course
-for elzerom web 
+for elzero web 
 
 ##project notes
